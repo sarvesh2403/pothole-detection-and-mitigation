@@ -61,7 +61,7 @@ The goal of this project is to create a lightweight and scalable system to detec
 Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/pothole-detection-and-mitigation.git
+git clone https://github.com/sarvesh2403/pothole-detection-and-mitigation.git
 cd pothole-detection-and-mitigation
 ```
 
